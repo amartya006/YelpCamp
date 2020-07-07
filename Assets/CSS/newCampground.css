@@ -1,0 +1,15 @@
+#form{
+    width: 30%;
+    margin: 0 auto;
+}
+
+#nav{
+    margin-bottom: 3%;
+}
+
+.imgs{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 2%;
+}
+
